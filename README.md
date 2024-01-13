@@ -2,7 +2,7 @@
     <a href="https://github.com/AndriiDorohov" target="_blank">
         <img src="https://github.com/AndriiDorohov/backend-Wallet-App/blob/main/images/project-logo.png" height="100px">
     </a>
-    <h1 align="center">Yii 2 Basic Project Template</h1>
+    <h1 align="center">Wallet Backend</h1>
     <br>
 </p>
 
