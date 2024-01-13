@@ -6,8 +6,6 @@
     <br>
 </p>
 
-# Wallet Backend
-
 ## _The Foundation of My Wallet Application_
 
 [![Powered by Node.js, Express, and Swagger](https://img.shields.io/badge/Powered%20by-Node.js%2C%20Express%2C%20%26%20Swagger-%23339933)](https://github.com/AndriiDorohov/backend-Wallet-App)
