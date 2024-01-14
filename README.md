@@ -15,6 +15,12 @@
 Wallet Backend is a robust and secure server-side component that serves as the backbone for my
 Wallet application. It provides a reliable foundation for managing user finances efficiently.
 
+## Frontend Repository
+
+The Wallet Backend serves as the backbone for the Wallet Frontend. Explore the
+[Wallet Frontend repository](https://github.com/AndriiDorohov/Wallet-react-app) to check out the
+dynamic and user-friendly client-side application.
+
 ## DIRECTORY STRUCTURE
 
       db/                 contains database-related files
